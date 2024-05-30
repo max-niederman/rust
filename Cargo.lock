@@ -5972,9 +5972,9 @@ checksum = "49874b5167b65d7193b8aba1567f5c7d93d001cafc34600cee003eda787e483f"
 
 [[package]]
 name = "vex-sdk"
-version = "0.16.1"
+version = "0.17.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "243647a2488b0878da0884c70f45a956a0e081f1291ea6c5c976184eea0dec29"
+checksum = "f285bbc2b96fc4c7fae42ebe365dd2e9121e7002a58b1a9e0e4b1d14dba4d6d0"
 dependencies = [
  "compiler_builtins",
  "rustc-std-workspace-core",
